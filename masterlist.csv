@@ -1,0 +1,6 @@
+index,location,network,category,vlanname
+network001,ALPHA,119.208.99.0,DATA_CENTER,DMZsupernet
+network002,ALPHA,114.93.50.0,DATA_CENTER,DMZsupernet
+network003,ALPHA,157.96.103.0,DATA_CENTER,DMZsupernet
+network004,ALPHA,186.251.166.0,DATA_CENTER,DMZsupernet
+network005,ALPHA,235.141.189.0,DATA_CENTER,DMZsupernet
